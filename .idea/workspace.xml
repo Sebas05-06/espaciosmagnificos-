@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19828401-d2e5-4032-b26a-a68c155d094a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +29,69 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0127267717261967" />
+      <entry key="MS500" value="2.125835260729854" />
+      <entry key="S2" value="6.5590292470910025" />
+      <entry key="S5" value="10.577379576639375" />
+      <entry key="S10" value="13.336856980753584" />
+      <entry key="S30" value="19.03511122190138" />
+      <entry key="S60" value="23.45524404646676" />
+      <entry key="M2" value="27.00291862279009" />
+      <entry key="M5" value="29.79016162648792" />
+      <entry key="M10" value="30.856253842197038" />
+      <entry key="M15" value="31.228579839396897" />
+      <entry key="M30" value="31.609752507148283" />
+      <entry key="H1" value="31.80372740673756" />
+      <entry key="H2" value="31.901574659167984" />
+      <entry key="H4" value="31.950714838160636" />
+      <entry key="D1" value="31.99177571849231" />
+      <entry key="W1" value="31.99882485533577" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9782288940182474" />
+      <entry key="MS500" value="2.1094687025756746" />
+      <entry key="S2" value="6.544418407037243" />
+      <entry key="S5" value="10.56654323288919" />
+      <entry key="S10" value="13.329112928989884" />
+      <entry key="S30" value="19.030186383108575" />
+      <entry key="S60" value="23.45167595551817" />
+      <entry key="M2" value="27.000663062815175" />
+      <entry key="M5" value="29.789106633064446" />
+      <entry key="M10" value="30.85569670158104" />
+      <entry key="M15" value="31.22820147708097" />
+      <entry key="M30" value="31.609559767437954" />
+      <entry key="H1" value="31.803630129804244" />
+      <entry key="H2" value="31.90152579171698" />
+      <entry key="H4" value="31.950690346910008" />
+      <entry key="D1" value="31.9917716286038" />
+      <entry key="W1" value="31.99882427086942" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KIaeOCK9F417XvLGSRQ2vhsFNw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,8 +107,9 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "disable.download.node.interpreter.editor.notification": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/jsem0/WebstormProjects/Espacios_Magnificos",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,6 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1791247630378</updated>
       <workItem from="1791247631441" duration="886000" />
+      <workItem from="1791256846927" duration="984000" />
     </task>
     <servers />
   </component>
